@@ -1,7 +1,11 @@
+:root {
+  --background-color: #eca674;
+  --word-box: #f5e6db;
+}
+
 .Dictionary {
-  background: linear-gradient(
-    69.9deg,
-    rgb(76, 79, 106) 3.2%,
-    rgb(118, 124, 163) 97.6%
-  );
+  background: var(--background-color);
+  color: #2a2839;
+  border-radius: 10px;
+  padding: 20px;
 }

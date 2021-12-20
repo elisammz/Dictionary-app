@@ -1,3 +1,12 @@
+:root {
+  --background-color: #eca674;
+  --word-box: #f5e6db;
+}
+
+.App {
+  background: var(--word-box);
+  padding: 20px;
+}
 .App-header {
   margin-top: 30px;
 }

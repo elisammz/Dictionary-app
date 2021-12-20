@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          <div className="text-center">Dictionary</div>
+          <h1 className="text-center">Dictionary</h1>
           <img src={logo} className="App-logo img-fluid" alt="logo" />
         </header>
         <main>
