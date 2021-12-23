@@ -1,0 +1,16 @@
+:root {
+  --background-color: #f5e6db;
+  --word-box: #a5a5a5;
+  --btn-border-color: #fb3501;
+}
+
+.Synonyms {
+  margin: 15px 0 0;
+  padding: 0;
+}
+
+.Synonyms li {
+  font-size: 13px;
+  display: inline-block;
+  padding-right: 15px;
+}
