@@ -1,0 +1,10 @@
+:root {
+  --background-color: #f5e6db;
+  --word-box: #a5a5a5;
+  --btn-border-color: #fb3501;
+}
+
+.Photos img {
+  border-radius: 5px;
+  margin-bottom: 20px;
+}

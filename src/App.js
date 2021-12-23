@@ -16,7 +16,15 @@ function App() {
         </main>
         <small>
           <footer className="App-footer">
-            Coded by Elisa Mendoza Zamarripa
+            <a
+              href="https://github.com/elisammz/Portfolio-project"
+              target="blank"
+              alternative="Dictionary-app repo in GitHub"
+            >
+              {" "}
+              Open-sourced{" "}
+            </a>
+            code by Elisa Mendoza Zamarripa 👩🏽‍💻
           </footer>
         </small>
       </div>
