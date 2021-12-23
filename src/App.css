@@ -1,17 +1,19 @@
 :root {
-  --background-color: #eca674;
-  --word-box: #f5e6db;
+  --background-color: #f5e6db;
+  --word-box: #a5a5a5;
+  --btn-border-color: #fb3501;
 }
 
 .App {
-  background: var(--word-box);
+  background: var(--background-color);
   padding: 20px;
 }
 .App-header {
   margin-top: 30px;
 }
+
 .App-logo {
-  max-width: 200px;
+  max-width: 100px;
   display: block;
   margin: 0 auto;
 }
@@ -19,4 +21,8 @@
 .App-footer {
   text-align: center;
   margin: 20px;
+}
+
+.App-btn {
+  border-color: var(--btn-border-color);
 }

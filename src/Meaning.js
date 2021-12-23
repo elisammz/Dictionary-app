@@ -8,7 +8,7 @@ export default function Meaning(props) {
       {props.meaning.definitions.map(function (definition, index) {
         return (
           <div key={index}>
-            <p className="text-capitalize">
+            <p className="">
               <strong>Definition: </strong>
               {definition.definition}
               <br />
