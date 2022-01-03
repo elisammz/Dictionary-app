@@ -17,7 +17,7 @@ function App() {
         <small>
           <footer className="App-footer">
             <a
-              href="https://github.com/elisammz/Portfolio-project"
+              href="https://github.com/elisammz/Dictionary-app"
               target="blank"
               alternative="Dictionary-app repo in GitHub"
             >
